@@ -8,4 +8,4 @@ While working on this project, I learned that font sizes can be adjusted for dif
 Screenshot of my solution.
 ![](/images/screenshot.png)
 
-Link: https://minkons.github.io/front-card/
+Link: https://minkons.github.io/blog-preview-card/
